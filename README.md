@@ -22,7 +22,7 @@ I'm a JavaScript Developer.
 
 ## 📫 How to Reach Me
 <p align="left">
-  <a href = "innempaya@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="40" height="40"/></a>
+  <a href = "mailto:innempaya@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="40" height="40"/></a>
   <a href = "https://t.me/innerempaya"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/640px-Telegram_Messenger.png" width="40" height="40"/></a>
 </p>
 </br>
