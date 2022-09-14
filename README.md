@@ -1,5 +1,9 @@
-<h1 align="center">Hi , I'm Alexander  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">👽</h1>
-<p align="center">JavaScript Developer</p>
+<h1 align="center">Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">👽</h1>
+
+## About Me
+My name is Alexander.
+I'm a JavaScript Developer.
+
 
 ## Languages and Tools:
 <p align="left">
