@@ -25,5 +25,5 @@ I'm a JavaScript Developer.
 
 
 
-## Codewars 
+## ⚔️ Codewars 
 <a href="https://www.codewars.com/users/innerEmpaya" target="_blank"> <img src="https://docs.codewars.com/logo.svg" width="40" height="40"/> </a>
