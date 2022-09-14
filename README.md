@@ -18,4 +18,6 @@ I'm a JavaScript Developer.
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgresql"/> </a>     
 </p>
 
+## 📫 How to Reach Me
+
 Codewars: https://www.codewars.com/users/innerEmpaya
