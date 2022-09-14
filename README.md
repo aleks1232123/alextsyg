@@ -4,7 +4,6 @@
 <p>My name is Alexander.
 I'm a JavaScript Developer.
 </p>
-<br/>
 
 ## 🛠 Languages and Tools:
 <p align="left">
@@ -18,14 +17,12 @@ I'm a JavaScript Developer.
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgresql"/> </a>     
 </p>
-<br/>
 
 ## 📫 How to Reach Me
 <p align="left">
   <a href = "mailto:innempaya@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="40" height="40"/></a>
   <a href = "https://t.me/innerempaya"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/640px-Telegram_Messenger.png" width="40" height="40"/></a>
 </p>
-</br>
 
 ## ⚔️ Codewars 
 <a href="https://www.codewars.com/users/innerEmpaya" target="_blank"> <img src="https://docs.codewars.com/logo.svg" width="40" height="40"/> </a>
