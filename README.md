@@ -5,7 +5,7 @@ My name is Alexander.
 I'm a JavaScript Developer.
 
 
-## 🔧 Languages and Tools:
+## 🛠 Languages and Tools:
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>       </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
