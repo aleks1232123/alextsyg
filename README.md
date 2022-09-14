@@ -1,7 +1,7 @@
 <h1 align="center">Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">👽</h1>
 
 ## 👨‍💻 About Me
-<p margin-bottom="30">My name is Alexander.
+<p margin-bottom="100">My name is Alexander.
 I'm a JavaScript Developer.
 </p>
 
