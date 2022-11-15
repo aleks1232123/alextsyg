@@ -7,8 +7,8 @@ I'm a JavaScript Developer.
 
 ## 🛠 Languages and Tools:
 <p align="left">
-    <a href="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48"/>
+    <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48"/>
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="48"                  height="48"/>
