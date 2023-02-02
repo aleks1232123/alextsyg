@@ -7,14 +7,14 @@ I'm a JavaScript Developer.
 
 ## 🛠 Languages and Tools:
 ```console
-JavaScript
-TypeScript
-HTML/CSS
-React
-Redux
-Node.js
-Express
-PostgreSQL
+· JavaScript
+· TypeScript
+· HTML/CSS
+· React
+· Redux
+· Node.js
+· Express
+· PostgreSQL
 ```
 ## 📫 How to Reach Me
 <p align="left">
