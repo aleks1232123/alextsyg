@@ -6,7 +6,7 @@ I'm a JavaScript Developer.
 </p>
 
 ## 🛠 Languages and Tools:
-```bash
+```console
 JavaScript
 TypeScript
 HTML/CSS
