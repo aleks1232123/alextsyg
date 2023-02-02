@@ -25,5 +25,5 @@ I'm a JavaScript Developer.
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="20" height="20"/> Telegram](https://t.me/innerempaya)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" width="20" height="20"/> LinkedIn](mailto:aleksandrattle@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" width="20" height="20"/> LinkedIn](https://www.linkedin.com/in/aleksandr-tsyganov-a44476252/)
 
