@@ -30,4 +30,4 @@ I'm a JavaScript Developer.
 </p>
 
 ## ⚔️ Codewars 
-<a href="https://www.codewars.com/users/innerempaya" target="_blank"> <img src="https://docs.codewars.com/logo.svg" width="40" height="40"/> </a>
+<a href="https://www.codewars.com/users/innerempaya" target="_blank"> <img src="https://www.codewars.com/users/innerempaya/badges/large"/> </a>
