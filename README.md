@@ -11,7 +11,7 @@ I'm a Frontend Developer.
 › TypeScript
 › HTML/CSS
 › React
-› Redux
+› Redux, Recoil
 › Node.js
 › Express.js
 › PostgreSQL
