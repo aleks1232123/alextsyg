@@ -7,8 +7,7 @@ I'm a Frontend Developer.
 
 ## 🛠 Languages and Tools:
 ```console
-› JavaScript
-› TypeScript
+› JavaScript, TypeScript
 › HTML/CSS
 › React
 › Redux, Recoil
