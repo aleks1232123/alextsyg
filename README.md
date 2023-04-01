@@ -30,7 +30,7 @@ I'm a Frontend Developer.
 [<img src="https://cdn-icons-png.flaticon.com/512/3031/3031693.png" width="20" height="20"/>](mailto:aleksandrattle@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="20" height="20"/>](https://t.me/innerempaya)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" width="20" height="20"/>](https://www.linkedin.com/in/aleksandr-tsyganov-a44476252/)
 
 
