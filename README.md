@@ -14,6 +14,7 @@ I'm a Frontend Developer.
 › Node.js
 › Express.js
 › PostgreSQL
+› Jest
 ```
 
 ## ⚔️ Codewars 
