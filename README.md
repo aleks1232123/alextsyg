@@ -10,6 +10,7 @@ I'm a Frontend Developer.
 › JavaScript/TypeScript
 › HTML/CSS
 › React
+› Next.js
 › Redux/Recoil
 › Node.js
 › Express.js
