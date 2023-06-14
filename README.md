@@ -7,15 +7,16 @@ I'm a Frontend Developer.
 
 ## 🛠 Languages and Tools:
 ```console
-› JavaScript/TypeScript
+› JavaScript
 › HTML/CSS
 › React
-› Next.js
 › Redux/Recoil
 › Node.js
 › Express.js
 › PostgreSQL
 › Jest
+
+› WIP: TypeScript, Next.js
 ```
 
 ## ⚔️ Codewars 
