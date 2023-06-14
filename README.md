@@ -16,7 +16,7 @@ I'm a Frontend Developer.
 › PostgreSQL
 › Jest
 
-› WIP: TypeScript, Next.js
+› Work In Progress: TypeScript, Next.js
 ```
 
 ## ⚔️ Codewars 
