@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 <p>My name is Aleksandr.
-I'm a Frontend Developer.
+I'm a Web Developer.
 </p>
 
 ## 🛠 Languages and Tools:
