@@ -15,8 +15,6 @@ I'm a Web Developer.
 › Express.js
 › PostgreSQL
 › Jest
-
-› Work In Progress: TypeScript, Next.js
 ```
 
 ## ⚔️ Codewars 
